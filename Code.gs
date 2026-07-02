@@ -13,7 +13,7 @@
 // ═══════════════════════════════════════════════════════════
 
 // ── YOUR SHEET ID ───────────────────────────────────────────
-const SHEET_ID    = "10rqVPyLthOjmbVY0z9k8bPjidEKc7LK0nhCLo2pVY-s";
+const SHEET_ID    = "1DcYu8A7CeZAoN8CQOajud_EoYYC7nXxKQKhnT6_bYFE";
 const SHEET_TAB   = "Catches";
 const APPDATA_TAB = "AppData";  // stores tackle/rods/favorites/settings as JSON
 
