@@ -8,7 +8,7 @@
 //  4. Save, then Deploy → Manage Deployments → New version → Deploy
 // ═══════════════════════════════════════════════════════════
 
-const SHEET_ID    = "YOUR_SHEET_ID_HERE";
+const SHEET_ID    = "1DcYu8A7CeZAoN8CQOajud_EoYYC7nXxKQKhnT6_bYFE";
 const SHEET_TAB   = "Catches";
 const APPDATA_TAB = "AppData";
 const SHOPS_TAB   = "FishShops";
