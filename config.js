@@ -10,6 +10,6 @@ const CONFIG = {
   WEB_APP_URL: "https://script.google.com/macros/s/AKfycby_JMYUC0KUoYcxjsqCEqdn7lNBHFUxBSsCLqcV3oJ0sNVpRedqM7vLxUv4LrhCONU4/exec",
 
   // Your name or handle — shown at the top of your log.
-  OWNER_NAME: "Luke's Fishing Log",
+  OWNER_NAME: "Brody's Fishing Log",
 
 };
